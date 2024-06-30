@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Q95/joJPJ3gLWaGUP1ciDObtbE8RAorC8aqGT7hXTyI=",
+  "Source": "api_web_qlsk",
+  "BasePath": "_content/api_web_qlsk",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
