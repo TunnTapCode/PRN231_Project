@@ -1,0 +1,717 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\client_web_qlsk.bundle.scp.css",
+      "PackagePath": "staticwebassets\\client_web_qlsk.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\css\\bootstrap-datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-datetimepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\css\\ckeditor.css",
+      "PackagePath": "staticwebassets\\assets\\css\\ckeditor.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\css\\feather.css",
+      "PackagePath": "staticwebassets\\assets\\css\\feather.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\css\\feathericon.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\feathericon.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\Feather144f.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Feather144f.svg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\Feather144f.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Feather144f.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\Feather144f.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Feather144f.woff"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\MaterialIcons-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\MaterialIcons-Regular.html"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\MaterialIcons-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\MaterialIcons-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\feathericon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feathericon.eot"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\feathericon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feathericon.svg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\feathericon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feathericon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\feathericon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feathericon.woff"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\feathericond41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\feathericond41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.html",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.html"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\blog\\blog-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\blog\\blog-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\blog\\blog-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog\\blog-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\github.html",
+      "PackagePath": "staticwebassets\\assets\\img\\github.html"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\icons\\invoices-icon1.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\invoices-icon1.svg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\icons\\invoices-icon2.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\invoices-icon2.svg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\icons\\invoices-icon3.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\invoices-icon3.svg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\icons\\invoices-icon4.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\invoices-icon4.svg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\icons\\invoices-icon5.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\icons\\invoices-icon5.svg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\img-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\img-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\invoice-circle1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\invoice-circle1.png"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\invoice-circle2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\invoice-circle2.png"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\logo-small.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-small.png"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\logo-white.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\avatar-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\avatar-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\avatar-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\avatar-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\avatar-07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\avatar-08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\avatar-09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\avatar-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\avatar-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\avatar-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\avatar-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\avatar-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-17.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\avatar-17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-18.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\profiles\\avatar-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\signature.png",
+      "PackagePath": "staticwebassets\\assets\\img\\signature.png"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user\\user1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user\\user11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user\\user12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user\\user2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user\\user3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user\\user4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user\\user5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user\\user6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user\\user7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user\\user8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\user\\user9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\chart.morris.js",
+      "PackagePath": "staticwebassets\\assets\\js\\chart.morris.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\ckeditor.js",
+      "PackagePath": "staticwebassets\\assets\\js\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\feather.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\feather.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\form-validation.js",
+      "PackagePath": "staticwebassets\\assets\\js\\form-validation.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\jquery.maskedinput.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.maskedinput.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\mask.js",
+      "PackagePath": "staticwebassets\\assets\\js\\mask.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\bootstrap-tagsinput\\css\\bootstrap-tagsinput.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-tagsinput\\css\\bootstrap-tagsinput.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\bootstrap-tagsinput\\js\\bootstrap-tagsinput.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\bootstrap-tagsinput\\js\\bootstrap-tagsinput.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\datatables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatables\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\datatables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatables\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.html",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.html"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.html",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.html"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.html",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.html"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\morris\\morris.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\morris\\morris.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\morris\\morris.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\morris\\morris.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\raphael\\raphael.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\raphael\\raphael.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\assets\\plugins\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\slimscroll\\jquery.slimscroll.min.js",
+      "PackagePath": "staticwebassets\\assets\\plugins\\slimscroll\\jquery.slimscroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\js\\home.js",
+      "PackagePath": "staticwebassets\\js\\home.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\js\\register.js",
+      "PackagePath": "staticwebassets\\js\\register.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.client_web_qlsk.props",
+      "PackagePath": "build\\client_web_qlsk.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.client_web_qlsk.props",
+      "PackagePath": "buildMultiTargeting\\client_web_qlsk.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.client_web_qlsk.props",
+      "PackagePath": "buildTransitive\\client_web_qlsk.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.client_web_qlsk.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

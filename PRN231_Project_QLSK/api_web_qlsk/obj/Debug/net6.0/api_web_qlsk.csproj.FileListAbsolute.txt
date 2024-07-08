@@ -5,7 +5,9 @@ C:\Users\hoang\OneDrive\Documents\PRN231\PRN231_Project\PRN231_Project_QLSK\api_
 C:\Users\hoang\OneDrive\Documents\PRN231\PRN231_Project\PRN231_Project_QLSK\api_web_qlsk\bin\Debug\net6.0\api_web_qlsk.runtimeconfig.json
 C:\Users\hoang\OneDrive\Documents\PRN231\PRN231_Project\PRN231_Project_QLSK\api_web_qlsk\bin\Debug\net6.0\api_web_qlsk.dll
 C:\Users\hoang\OneDrive\Documents\PRN231\PRN231_Project\PRN231_Project_QLSK\api_web_qlsk\bin\Debug\net6.0\api_web_qlsk.pdb
+C:\Users\hoang\OneDrive\Documents\PRN231\PRN231_Project\PRN231_Project_QLSK\api_web_qlsk\bin\Debug\net6.0\BCrypt.Net-Next.dll
 C:\Users\hoang\OneDrive\Documents\PRN231\PRN231_Project\PRN231_Project_QLSK\api_web_qlsk\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hoang\OneDrive\Documents\PRN231\PRN231_Project\PRN231_Project_QLSK\api_web_qlsk\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\hoang\OneDrive\Documents\PRN231\PRN231_Project\PRN231_Project_QLSK\api_web_qlsk\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
 C:\Users\hoang\OneDrive\Documents\PRN231\PRN231_Project\PRN231_Project_QLSK\api_web_qlsk\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\hoang\OneDrive\Documents\PRN231\PRN231_Project\PRN231_Project_QLSK\api_web_qlsk\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
@@ -15,6 +17,7 @@ C:\Users\hoang\OneDrive\Documents\PRN231\PRN231_Project\PRN231_Project_QLSK\api_
 C:\Users\hoang\OneDrive\Documents\PRN231\PRN231_Project\PRN231_Project_QLSK\api_web_qlsk\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
 C:\Users\hoang\OneDrive\Documents\PRN231\PRN231_Project\PRN231_Project_QLSK\api_web_qlsk\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\hoang\OneDrive\Documents\PRN231\PRN231_Project\PRN231_Project_QLSK\api_web_qlsk\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hoang\OneDrive\Documents\PRN231\PRN231_Project\PRN231_Project_QLSK\api_web_qlsk\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\hoang\OneDrive\Documents\PRN231\PRN231_Project\PRN231_Project_QLSK\api_web_qlsk\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\hoang\OneDrive\Documents\PRN231\PRN231_Project\PRN231_Project_QLSK\api_web_qlsk\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\hoang\OneDrive\Documents\PRN231\PRN231_Project\PRN231_Project_QLSK\api_web_qlsk\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
