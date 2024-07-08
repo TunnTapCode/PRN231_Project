@@ -23,6 +23,7 @@ CREATE TABLE [Events] (
     user_id INT,
     title NVARCHAR(100) ,
     description NVARCHAR(MAX),
+	[image] NVARCHAR(MAX),
     start_time DATETIME ,
     end_time DATETIME ,
     location NVARCHAR(255),
