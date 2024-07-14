@@ -1,4 +1,4 @@
-﻿create database EventDB ;
+﻿--create database EventDB ;
 use EventDB ;
 
 -- Tạo bảng Users

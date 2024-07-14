@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\api_web_qlsk\\api_web_qlsk.csproj": {}
+    "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\api_web_qlsk\\api_web_qlsk.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\api_web_qlsk\\api_web_qlsk.csproj": {
+    "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\api_web_qlsk\\api_web_qlsk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\api_web_qlsk\\api_web_qlsk.csproj",
+        "projectUniqueName": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\api_web_qlsk\\api_web_qlsk.csproj",
         "projectName": "api_web_qlsk",
-        "projectPath": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\api_web_qlsk\\api_web_qlsk.csproj",
-        "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\api_web_qlsk\\obj\\",
+        "projectPath": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\api_web_qlsk\\api_web_qlsk.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\api_web_qlsk\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -91,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
