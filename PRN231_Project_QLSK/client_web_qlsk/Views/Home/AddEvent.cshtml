@@ -26,26 +26,29 @@
 
                                 <div class="form-group">
                                     <label>Tiêu đề</label>
-                                    <input class="form-control" type="text">
+                                    <input class="form-control" id="title" type="text">
                                 </div>
-                                <div class="form-group">
-                                    <label>Ảnh</label>
-                                    <div>
-                                        <input class="form-control" type="file">
-                                        <small class="form-text text-muted">
-                                            Max. file size: 50 MB. Allowed
-                                            images: jpg, gif, png. Maximum 10 images only.
-                                        </small>
-                                    </div>
-                                </div>
+                              
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="form-group">
-                                            <label>Địa điểm</label>
-                                            <input class="form-control" type="text">
+                                            <label>Ảnh</label>
+                                            <div>
+                                                <input class="form-control" id="image" type="file">
+                                                <small class="form-text text-muted">
+                                                    Max. file size: 50 MB. Allowed
+                                                    images: jpg, gif, png. Maximum 10 images only.
+                                                </small>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
+                                        <div class="form-group">
+                                            <label>Địa điểm</label>
+                                            <input class="form-control" id="location" type="text">
+                                        </div>
+                                    </div>
+                                   @*  <div class="col-md-6">
                                         <div class="form-group">
                                             <label>Tags</label>
                                             <select class="select select2-hidden-accessible form-control"
@@ -57,29 +60,29 @@
                                                 <option>Bạn bè</option>
                                             </select>
                                         </div>
-                                    </div>
+                                    </div> *@
                                 </div>
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <label>Ngày bắt đầu</label>
-                                            <input class="form-control" type="date">
+                                            <input class="form-control" id="startdate" type="date">
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <label>Ngày kết thúc</label>
-                                            <input class="form-control" type="date">
+                                            <input class="form-control" id="enddate" type="date">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="form-group">
                                     <label>Mô tả</label>
-                                    <textarea cols="30" rows="6" class="form-control"></textarea>
+                                    <textarea cols="30" rows="6" id="description"  class="form-control"></textarea>
                                 </div>
 
                                 <div class="m-t-20 text-center">
-                                    <button class="btn btn-primary btn-lg">Thêm mới</button>
+                                    <button class="btn btn-primary btn-lg" onclick="saveEvent()">Thêm mới</button>
                                 </div>
 
                             </div>
@@ -139,13 +142,13 @@
                     <div class="row">
                         <div class="col-md-6">
                             <div class="form-group">
-                                <label for="scheduleStartDate">Ngày bắt đầu</label>
+                                <label for="scheduleStartDate">Bắt đầu</label>
                                 <input type="datetime-local" class="form-control" id="scheduleStartDate">
                             </div>
                         </div>
                         <div class="col-md-6">
                             <div class="form-group">
-                                <label for="scheduleEndDate">Ngày kết thúc</label>
+                                <label for="scheduleEndDate">Kết thúc</label>
                                 <input type="datetime-local" class="form-control" id="scheduleEndDate">
                             </div>
                         </div>
@@ -166,6 +169,9 @@
 <script>
 
     function loadSchedule(){
+        listschedule.sort(function (a, b) {
+            return new Date(a.StartTime) - new Date(b.StartTime);
+        });
         var scheduleList = $('#scheduleList');
         scheduleList.empty();
         listschedule.forEach(function (schedule, index) {
@@ -236,5 +242,53 @@
     }
 
     
+</script>
+<script>
+
+    function saveEvent(){
+        var token = localStorage.getItem('jwt');
+        var user = localStorage.getItem('username');
+
+        var title = $('#title').val();
+        var location = $('#location').val();
+        var startDate = $('#startdate').val();
+        var endDate = $('#enddate').val();
+        var description = $('#description').val();
+
+        var formData = new FormData();
+        var image = $('#image')[0].files[0];
+     
+        formData.append('image', image);
+        formData.append('title', title);
+        formData.append('location', location);
+        formData.append('startDate', startDate);
+        formData.append('endDate', endDate);
+        formData.append('description', description);
+        formData.append('username', user);
+        formData.append('schedule', JSON.stringify(listschedule));
+
+      
+        $.ajax({
+            url: 'http://localhost:5100/api/Event', 
+            type: 'POST',
+            headers: {
+                'Authorization': 'Bearer ' + token
+            },
+            data: formData,
+            contentType: false,
+            processData: false,
+            success: function (response) {
+                debugger
+                console.log(response);
+                alert('Event saved successfully!');
+            },
+            error: function (error) {
+                debugger
+                console.error(error);
+                alert('An error occurred while saving the event.');
+            }
+        });
+
+    }
 </script>
 

@@ -364,23 +364,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\hoang\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\client_web_qlsk.csproj",
+      "projectUniqueName": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\client_web_qlsk.csproj",
       "projectName": "client_web_qlsk",
-      "projectPath": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\client_web_qlsk.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\obj\\",
+      "projectPath": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\client_web_qlsk.csproj",
+      "packagesPath": "C:\\Users\\hoang\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hoang\\OneDrive\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hoang\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -389,6 +389,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -439,7 +440,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
