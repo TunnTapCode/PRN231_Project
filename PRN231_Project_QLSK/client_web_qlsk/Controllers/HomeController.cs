@@ -27,6 +27,10 @@ namespace client_web_qlsk.Controllers
         {
             return View();
         }
+         public IActionResult DetailEvent()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {

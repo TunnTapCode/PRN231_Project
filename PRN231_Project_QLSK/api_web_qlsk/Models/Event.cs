@@ -15,13 +15,14 @@ namespace api_web_qlsk.Models
         public int? UserId { get; set; }
         public string? Title { get; set; }
         public string? Description { get; set; }
+        public string? Image { get; set; }
         public DateTime? StartTime { get; set; }
         public DateTime? EndTime { get; set; }
         public string? Location { get; set; }
         public int? TagId { get; set; }
         public DateTime? CreatedAt { get; set; }
-        public string? Image { get; set; }
-
+        public int? TrangThai { get; set; }
+        // 0 - xoã ,  1 - hoạt động
         public virtual Tag? Tag { get; set; }
         public virtual User? User { get; set; }
         public virtual ICollection<Schedule> Schedules { get; set; }

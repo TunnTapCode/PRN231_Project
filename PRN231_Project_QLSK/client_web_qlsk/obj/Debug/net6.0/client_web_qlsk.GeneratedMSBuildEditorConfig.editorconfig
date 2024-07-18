@@ -9,59 +9,63 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = client_web_qlsk
 build_property.RootNamespace = client_web_qlsk
-build_property.ProjectDir = C:\Users\hoang\OneDrive\Documents\PRN231\PRN231_Project\PRN231_Project_QLSK\client_web_qlsk\
+build_property.ProjectDir = D:\Documents\PRN231\PRN231_Project\PRN231_Project_QLSK\client_web_qlsk\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\hoang\OneDrive\Documents\PRN231\PRN231_Project\PRN231_Project_QLSK\client_web_qlsk
+build_property.MSBuildProjectDirectory = D:\Documents\PRN231\PRN231_Project\PRN231_Project_QLSK\client_web_qlsk
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/hoang/OneDrive/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/Home/AddEvent.cshtml]
+[D:/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/Home/AddEvent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGRFdmVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hoang/OneDrive/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/Home/EditEvent.cshtml]
+[D:/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/Home/DetailEvent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWxFdmVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/Home/EditEvent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0RXZlbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hoang/OneDrive/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/Home/Index.cshtml]
+[D:/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hoang/OneDrive/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/Home/Privacy.cshtml]
+[D:/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hoang/OneDrive/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/Login/Index.cshtml]
+[D:/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hoang/OneDrive/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/Register/Index.cshtml]
+[D:/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/Register/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hoang/OneDrive/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/Shared/Error.cshtml]
+[D:/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hoang/OneDrive/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hoang/OneDrive/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/_ViewImports.cshtml]
+[D:/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hoang/OneDrive/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/_ViewStart.cshtml]
+[D:/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/hoang/OneDrive/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/Shared/_Layout.cshtml]
+[D:/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-vn2xe8mads
 
-[C:/Users/hoang/OneDrive/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/Shared/_LayoutHome.cshtml]
+[D:/Documents/PRN231/PRN231_Project/PRN231_Project_QLSK/client_web_qlsk/Views/Shared/_LayoutHome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRIb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-9k2dy8vmai

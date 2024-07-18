@@ -19,31 +19,32 @@ namespace api_web_qlsk.Controllers
         [HttpPost("login")]
         public IActionResult Login([FromBody] User user)
         {
-            var User = db.Users.FirstOrDefault(x => x.Username == user.Username );
+            var User = db.Users.FirstOrDefault(x => x.Username == user.Username);
             try
             {
-            if (User == null || !BCrypt.Net.BCrypt.Verify(user.Password, User.Password))
-            {
-                return Unauthorized(new { Message = "Tài khoản hoặc mật khẩu không chính xác." });
-            }
-
-            var tokenHandler = new JwtSecurityTokenHandler();
-            var key = Encoding.ASCII.GetBytes("ta-lac-troi-giua-bau-troi-dom-dom-is-my-heart");
-            var tokenDescriptor = new SecurityTokenDescriptor
-            {
-                Subject = new ClaimsIdentity(new Claim[]
+                if (User == null || !BCrypt.Net.BCrypt.Verify(user.Password, User.Password))
                 {
+                    return Unauthorized(new { Message = "Tài khoản hoặc mật khẩu không chính xác." });
+                }
+
+                var tokenHandler = new JwtSecurityTokenHandler();
+                var key = Encoding.ASCII.GetBytes("ta-lac-troi-giua-bau-troi-dom-dom-is-my-heart");
+                var tokenDescriptor = new SecurityTokenDescriptor
+                {
+                    Subject = new ClaimsIdentity(new Claim[]
+                    {
                     new Claim(ClaimTypes.Name, user.Username),
-                }),
-                Expires = DateTime.UtcNow.AddMinutes(30),
-                SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
-            };
-            var token = tokenHandler.CreateToken(tokenDescriptor);
-            var tokenString = tokenHandler.WriteToken(token);
+                    }),
+                    Expires = DateTime.UtcNow.AddMinutes(30),
+                    SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
+                };
+                var token = tokenHandler.CreateToken(tokenDescriptor);
+                var tokenString = tokenHandler.WriteToken(token);
 
-            return Ok(new { username = user.Username, Token = tokenString });
+                return Ok(new { username = user.Username, Token = tokenString });
 
-            }catch (Exception ex)
+            }
+            catch (Exception ex)
             {
                 return Unauthorized(new { Message = "Tài khoản hoặc mật khẩu không chính xác." });
             }
@@ -55,7 +56,7 @@ namespace api_web_qlsk.Controllers
         {
             if (db.Users.Any(u => u.Username == userRegister.Username))
             {
-                return BadRequest(new { status = false , message = "Tài khoản đã tồn tại !!!" });
+                return BadRequest(new { status = false, message = "Tài khoản đã tồn tại !!!" });
             }
 
             var hashedPassword = BCrypt.Net.BCrypt.HashPassword(userRegister.Password);
@@ -70,7 +71,7 @@ namespace api_web_qlsk.Controllers
             db.Users.Add(user);
             db.SaveChanges();
 
-            return Ok(new { status = true , message = "Đăng ký thành công" });
+            return Ok(new { status = true, message = "Đăng ký thành công" });
         }
     }
 }

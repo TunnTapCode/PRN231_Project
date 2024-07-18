@@ -13,6 +13,7 @@ namespace api_web_qlsk.Models
         public DateTime? EndTime { get; set; }
         public string? Location { get; set; }
         public DateTime? CreatedAt { get; set; }
+        public int? TrangThai { get; set; }
 
         public virtual Event? Event { get; set; }
     }

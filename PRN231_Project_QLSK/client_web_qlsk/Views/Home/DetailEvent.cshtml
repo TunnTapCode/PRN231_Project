@@ -1,0 +1,229 @@
+﻿@{
+    Layout = "_LayoutHome";
+}
+<style>
+    .blog-image img {
+        width: 100%;
+        max-width: 150px; /* Đặt kích thước tối đa cho hình ảnh */
+        height: auto;
+    }
+
+    .course-content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    #card-body {
+        display: flex;
+        align-items: center;
+    }
+
+</style>
+<div class="page-wrapper">
+    <div class="content container-fluid">
+
+        <div class="page-header">
+            <div class="row">
+                <div class="col-sm-12">
+                    <h3 class="page-title">Chi tiết sự kiện</h3>
+                    <ul class="breadcrumb">
+                        <li ><a href="/home"> Trang chủ / </a></li>
+                        <li class="breadcrumb-item"><a href="#" > Chi tiết</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+     
+        <div class="row">
+            <div class="col-sm-12 col-md-6">
+                <div class="card">
+                    <div class="card-body d-flex" id="card-body">
+                        <div class="blog-image mb-0 me-3">
+                            <a >
+                                <img class="img-fluid" src="" id="image" alt="Post Image">
+                            </a>
+                        </div>
+                        <div class="course-content">
+                            <div class="d-block">
+                                <span class="date">
+                                    <i class="fa-solid fa-clock"></i>
+                                    <strong style="font-size:14px ;" id="startTime"></strong>
+                                </span>
+
+                                <span class="date">
+                                    <i class="fa-solid fa-clock"></i>
+                                    <strong style="font-size:14px ;" id="endTime"></strong>
+                                </span>
+
+                                <span class="date">
+                                    <i class="fa-solid fa-location-dot"></i>
+                                    <strong style="font-size:14px ;" id="location"></strong>
+                                </span>
+                            </div>
+                            <a>
+                                <span class="course-title" id="title"></span>
+                            </a>
+                            <div class="mb-2" style="color: green"><i class="fa-solid fa-circle" style="color: green"></i> Đang diễn ra</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <h2> Lịch trình chi tiết</h2>
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="card">
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="datatable table table-hover table-center mb-0">
+                                <thead>
+                                    <tr>
+                                        <th>Tiêu đề</th>
+                                        <th>Địa điểm</th>
+                                        <th>Thời gian bắt đầu</th>
+                                        <th>Thời gian kết thúc</th>
+                                        <th>Mô tả</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="tbodyDetail">
+                                    <tr>
+                                        <td>Đi ra sân bay</td>
+                                        <td>Sân bay nội bài</td>
+                                        <td>14 Jan 2019 <br><small>02.59 AM</small></td>
+                                        <td>14 Jan 2019 <br><small>05.59 AM</small></td>
+                                        <td>Đi tới để làm thủ tục bay</td>
+
+                                    </tr>
+                                    <tr>
+                                        <td>Lên máy bay check-in</td>
+                                        <td>Sân bay nội bài</td>
+                                        <td>14 Jan 2019 <br><small>06.00 AM</small></td>
+                                        <td>14 Jan 2019 <br><small>06.29 AM</small></td>
+                                        <td>Chờ máy bay cất cánh</td>
+
+                                    </tr>
+
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery/dist/jquery.js"></script>
+<script>
+    $(document).ready(function () {
+        var url = window.location.href;
+        var parts = url.split('/');
+        var id = parts[parts.length - 1];
+        loadEvent(id);
+        GetSchedule(id);
+     
+    });
+
+
+    function loadEvent(id) {
+        var token = localStorage.getItem('jwt');
+        $.ajax({
+            url: 'http://localhost:5100/api/Event/' + id,
+            type: 'get',
+            dataType: 'json',
+            contentType: 'application/json',
+            headers: {
+                'Authorization': 'Bearer ' + token
+            },
+
+            success: function (res) {
+                debugger
+                $('#title').text(res.title);
+                $('#image').attr('src', res.image);
+
+                $('#location').text('Địa điểm :' + res.location);
+                $('#description').val(res.description);
+                $('#startTime').text('Bắt đầu : ' +res.startTime);
+                $('#endTime').text('Kết thúc : '+res.endTime);
+                debugger
+              
+
+            },
+            error: function (error) {
+                debugger
+                alert('Lỗi trong quá trình thêm sự kiện');
+            }
+        });
+    }
+
+    function GetSchedule(id) {
+        var token = localStorage.getItem('jwt');
+        $.ajax({
+            url: 'http://localhost:5100/api/Event/Schedule/' + id,
+            type: 'get',
+            dataType: 'json',
+            contentType: 'application/json',
+            headers: {
+                'Authorization': 'Bearer ' + token
+            },
+
+            success: function (response) {
+                debugger
+
+                loadSchedule(response)
+
+            },
+            error: function (error) {
+                debugger
+                alert('Lỗi trong quá trình thêm sự kiện');
+            }
+        });
+    }
+
+    function loadSchedule(listschedule) {
+        listschedule.sort(function (a, b) {
+            return new Date(a.StartTime) - new Date(b.StartTime);
+        });
+        var scheduleList = $('#tbodyDetail');
+        scheduleList.empty();
+        listschedule.forEach(function (schedule, index) {
+
+            var startDateTime = new Date(schedule.startTime);
+            var endDateTime = new Date(schedule.endTime);
+
+            var startDate = startDateTime.toLocaleDateString('en-GB', {
+                day: '2-digit',
+                month: 'short',
+                year: 'numeric'
+            });
+            var startTime = startDateTime.toLocaleTimeString('en-US', {
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+
+            var endDate = endDateTime.toLocaleDateString('en-GB', {
+                day: '2-digit',
+                month: 'short',
+                year: 'numeric'
+            });
+            var endTime = endDateTime.toLocaleTimeString('en-US', {
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+
+            var scheduleItem = `
+                             <tr>
+                                 <td>${schedule.title}</td>
+                                 <td>${schedule.location}</td>
+                                 <td>${startDate}<br><small>${startTime}</small></td>
+                                         <td>${endDate}<br><small>${endTime}</small></td>
+                                 <td>${schedule.description}</td>
+                              </tr>
+                    `;
+            scheduleList.append(scheduleItem);
+        });
+    }
+
+</script>

@@ -23,13 +23,9 @@ namespace api_web_qlsk.Models
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            var config = new ConfigurationBuilder().AddJsonFile("appsettings.json").Build();
-            if (!optionsBuilder.IsConfigured)
-            {
-                optionsBuilder.UseSqlServer(config.GetConnectionString("PRN231DB"));
-
-            }
-
+            var builder = new ConfigurationBuilder().SetBasePath(Directory.GetCurrentDirectory()).AddJsonFile("appsettings.json", optional: true, reloadOnChange: true);
+            IConfiguration con = builder.Build();
+            optionsBuilder.UseSqlServer(con.GetConnectionString("PRN231DB"));
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -70,22 +66,22 @@ namespace api_web_qlsk.Models
                 entity.HasOne(d => d.Tag)
                     .WithMany(p => p.Events)
                     .HasForeignKey(d => d.TagId)
-                    .HasConstraintName("FK__Events__tag_id__3D5E1FD2");
+                    .HasConstraintName("FK__Events__tag_id__2A4B4B5E");
 
                 entity.HasOne(d => d.User)
                     .WithMany(p => p.Events)
                     .HasForeignKey(d => d.UserId)
-                    .HasConstraintName("FK__Events__user_id__3C69FB99");
+                    .HasConstraintName("FK__Events__user_id__29572725");
 
                 entity.HasMany(d => d.Tags)
                     .WithMany(p => p.EventsNavigation)
                     .UsingEntity<Dictionary<string, object>>(
                         "EventTag",
-                        l => l.HasOne<Tag>().WithMany().HasForeignKey("TagId").OnDelete(DeleteBehavior.ClientSetNull).HasConstraintName("FK__Event_Tag__tag_i__44FF419A"),
-                        r => r.HasOne<Event>().WithMany().HasForeignKey("EventId").OnDelete(DeleteBehavior.ClientSetNull).HasConstraintName("FK__Event_Tag__event__440B1D61"),
+                        l => l.HasOne<Tag>().WithMany().HasForeignKey("TagId").OnDelete(DeleteBehavior.ClientSetNull).HasConstraintName("FK__Event_Tag__tag_i__31EC6D26"),
+                        r => r.HasOne<Event>().WithMany().HasForeignKey("EventId").OnDelete(DeleteBehavior.ClientSetNull).HasConstraintName("FK__Event_Tag__event__30F848ED"),
                         j =>
                         {
-                            j.HasKey("EventId", "TagId").HasName("PK__Event_Ta__57599D0C7E90A6F9");
+                            j.HasKey("EventId", "TagId").HasName("PK__Event_Ta__57599D0C1165E795");
 
                             j.ToTable("Event_Tags");
 
@@ -127,7 +123,7 @@ namespace api_web_qlsk.Models
                 entity.HasOne(d => d.Event)
                     .WithMany(p => p.Schedules)
                     .HasForeignKey(d => d.EventId)
-                    .HasConstraintName("FK__Schedules__event__412EB0B6");
+                    .HasConstraintName("FK__Schedules__event__2E1BDC42");
             });
 
             modelBuilder.Entity<Tag>(entity =>

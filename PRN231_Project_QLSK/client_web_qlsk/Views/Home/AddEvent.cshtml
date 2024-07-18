@@ -34,11 +34,8 @@
                                         <div class="form-group">
                                             <label>Ảnh</label>
                                             <div>
-                                                <input class="form-control" id="image" type="file">
-                                                <small class="form-text text-muted">
-                                                    Max. file size: 50 MB. Allowed
-                                                    images: jpg, gif, png. Maximum 10 images only.
-                                                </small>
+                                                <input class="form-control" id="image" type="text">
+                                               
                                             </div>
                                         </div>
                                     </div>
@@ -246,17 +243,18 @@
 <script>
 
     function saveEvent(){
+        debugger
         var token = localStorage.getItem('jwt');
         var user = localStorage.getItem('username');
 
         var title = $('#title').val();
+        var image = $('#image').val();
         var location = $('#location').val();
         var startDate = $('#startdate').val();
         var endDate = $('#enddate').val();
         var description = $('#description').val();
 
         var formData = new FormData();
-        var image = $('#image')[0].files[0];
      
         formData.append('image', image);
         formData.append('title', title);
@@ -278,14 +276,10 @@
             contentType: false,
             processData: false,
             success: function (response) {
-                debugger
-                console.log(response);
-                alert('Event saved successfully!');
+                alert(response.message);
             },
             error: function (error) {
-                debugger
-                console.error(error);
-                alert('An error occurred while saving the event.');
+                alert('Lỗi trong quá trình thêm sự kiện');
             }
         });
 
