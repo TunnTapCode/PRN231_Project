@@ -28,6 +28,7 @@ CREATE TABLE [Events] (
     end_time DATETIME ,
     location NVARCHAR(255),
     tag_id INT,
+	TrangThai INT ,
     created_at DATETIME DEFAULT GETDATE(),
     FOREIGN KEY (user_id) REFERENCES Users(user_id),
     FOREIGN KEY (tag_id) REFERENCES Tags(tag_id)
@@ -38,6 +39,7 @@ CREATE TABLE Schedules (
     schedule_id INT PRIMARY KEY IDENTITY(1,1),
     event_id INT ,
     title NVARCHAR(100) ,
+	TrangThai INT ,
     description NVARCHAR(MAX),
     start_time DATETIME ,
     end_time DATETIME ,
@@ -56,10 +58,7 @@ CREATE TABLE Event_Tags (
 );
 
 
-INSERT INTO Users (username, password, email, full_name, phone_number, address)
-VALUES 
-('tun', '123', 'nqtun251@example.com', 'Nguyễn Quốc Tuấn ', '0123456789', '123 Đường Mê Linh'),
-('tathu', '123', 'tathu104@example.com', 'Tạ Thị Thu', '0987654321', '456 Đường Huyện');
+
 
 INSERT INTO Tags (name, description)
 VALUES 

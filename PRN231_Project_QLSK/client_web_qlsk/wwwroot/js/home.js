@@ -1,13 +1,55 @@
 ﻿$(document).ready(function () {
     loadData();
-   
+    debugger
+    loadsukien();
+    $('#datetimeModal').modal("show");
 });
 
+
+
+function loadsukien() {
+
+    var token = localStorage.getItem('jwt');
+    var user = localStorage.getItem('username');
+
+    $.ajax({
+        url: 'http://localhost:5100/api/Event/getAllEvent',
+        method: 'GET',
+        data: { username: user },
+        headers: {
+            'Authorization': 'Bearer ' + token
+        },
+        success: function (response) {
+            debugger
+            response.forEach(function (event) {
+                var now = new Date();
+                var startTime = new Date(event.startTime);
+
+                var timeDiff = startTime - now;
+                var daysDiff = Math.ceil(timeDiff / (1000 * 60 * 60 * 24));
+                var listsk = $('#listsukien')
+                listsk.empty();
+
+                var scheduleItem = `
+							<label for= "scheduleEndDate" class= "form-label"> ${event.title}<span >- Còn ${daysDiff} ngày</span ></label><br />
+						`;
+
+                $('#listsukien').append(scheduleItem);
+
+
+            });
+
+        },
+        error: function () {
+
+        }
+    });
+
+}
 function loadData() {
     var token = localStorage.getItem('jwt');
     var user = localStorage.getItem('username');
-    console.log(token)
-    console.log(user)
+
     $.ajax({
         url: 'http://localhost:5100/api/Event/getTop12',
         method: 'GET',
@@ -36,7 +78,7 @@ function loadData() {
                         statusHtml = '<div class="mb-2" style="color: green"><i class="fa-solid fa-circle" style="color: green"></i> Đang diễn ra</div>';
                     }
                     var html = `
-                    <div class="col-12 col-md-4 col-xl-3">
+                    <div class="col-12 col-md-4 col-xl-4">
                         <div class="course-box blog grid-blog">
                             <div class="blog-image mb-0">
                                 <a href="/home/DetailEvent/${event.eventId}"><img class="img-fluid" src="${event.image}" alt="Post Image"></a>
@@ -56,8 +98,8 @@ function loadData() {
                                         </a>
                                     </div>
                                     <div class="col text-end">
-                                        <a class="text-danger btn-delete"  data-id="${event.eventId}">
-                                            <i class="far fa-trash-alt"></i> Xoá
+                                        <a class="text-danger btn-share"  data-sid="${event.eventId}">
+                                            <i class="far fa-share-alt"></i> Share
                                         </a>
                                     </div>
                                 </div>
@@ -76,7 +118,85 @@ function loadData() {
         }
     });
 }
+$(document).on('click', '.btn-share', function () {
+    debugger
+    var eid = $(this).data('sid')
+    loadUser(eid);
 
+    $('#shareTable').modal("show");
+    
+})
+
+
+function loadUser(eid) {
+
+    var token = localStorage.getItem('jwt');
+    var user = localStorage.getItem('username');
+    $.ajax({
+        url: 'http://localhost:5100/api/User/getAllUser',
+        method: 'GET',
+        data: { username: user },
+        headers: {
+            'Authorization': 'Bearer ' + token
+        },
+        success: function (response) {
+            debugger
+            var listsk = $('#eventTableBody')
+            listsk.empty();
+            response.forEach(function (user) {
+               
+                
+                var row = `
+                    <tr>
+                        <td>${user.username}</td>
+                        <td>${user.email} ngày</td>
+                        <td>
+						<a class="text-primary share_event" data-uid='${user.userId}' data-eid='${eid}'>
+							Share
+						</a>
+					</td>
+                    </tr>
+                `;
+                
+                listsk.append(row);
+
+
+            });
+
+        },
+        error: function () {
+
+        }
+    });
+}
+$(document).on('click', '.share_event', function () {
+    debugger
+    var token = localStorage.getItem('jwt');
+    var eid = $(this).data('eid');
+    var uid = $(this).data('uid');
+    var data = {
+        eid: eid,
+        uid: uid
+    }
+    $.ajax({
+        url: 'http://localhost:5100/api/Event/ShareEvent/'+eid+'/'+uid,
+        method: 'GET',
+        data: data,
+        headers: {
+            'Authorization': 'Bearer ' + token
+        },
+        success: function (response) {
+            debugger
+            alert("Chia sẻ sự kiện thành công")
+            $('#shareTable').modal("dispose");
+
+        },
+        error: function () {
+
+        }
+    });
+
+});
 
 $(document).on('click', '.btn-delete', function () {
     debugger

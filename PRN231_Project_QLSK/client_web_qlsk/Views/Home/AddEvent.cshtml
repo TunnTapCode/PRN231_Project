@@ -63,13 +63,14 @@
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <label>Ngày bắt đầu</label>
-                                            <input class="form-control" id="startdate" type="date">
+                                            <input class="form-control" id="startdate" type="date" onfocus="this.min = new Date().toISOString().split('T')[0]">
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-group">
                                             <label>Ngày kết thúc</label>
-                                            <input class="form-control" id="enddate" type="date">
+                                            <input class="form-control" id="enddate" type="date" onfocus="this.min = new Date().toISOString().split('T')[0]">
+
                                         </div>
                                     </div>
                                 </div>
@@ -197,6 +198,10 @@
     var listschedule = [];
 
     function addSchedule() {
+
+
+        var EventstartDate = $('#startdate').val();
+        var EventendDate = $('#enddate').val();
         debugger
         var title = $('#scheduleTitle').val();
         var location = $('#scheduleLocation').val();
@@ -206,6 +211,15 @@
 
         var newStartTime = new Date(startDate);
         var newEndTime = new Date(endDate);
+
+        var EventstartDate = new Date($('#startdate').val());
+        var EventendDate = new Date($('#enddate').val());
+   
+        debugger
+        if (newStartTime < EventstartDate || newStartTime > EventendDate || newEndTime < EventstartDate || newEndTime > EventendDate) {
+            alert('Ngày bắt đầu và kết thúc phải nằm trong khoảng thời gian sự kiện');
+            return;
+        } 
 
         if (newEndTime <= newStartTime) {
             alert('Thời gian kết thúc phải lớn hơn thời gian bắt đầu.');
@@ -218,6 +232,11 @@
             EndTime: newEndTime,
             Description: description
         };
+
+
+            listschedule.push(newSchedule);
+            alert('Thành công.');
+            $('#addScheduleModal').modal('hide');
 
         var isOverlap = listschedule.some(function (schedule) {
             return (
@@ -265,6 +284,12 @@
         formData.append('username', user);
         formData.append('schedule', JSON.stringify(listschedule));
 
+        var newStartTime = new Date(startDate);
+        var newEndTime = new Date(endDate);
+        if (newEndTime <= newStartTime) {
+            alert('Thời gian kết thúc phải lớn hơn thời gian bắt đầu.');
+            return;
+        }
       
         $.ajax({
             url: 'http://localhost:5100/api/Event', 
@@ -277,6 +302,7 @@
             processData: false,
             success: function (response) {
                 alert(response.message);
+                window.location.href = "/home";
             },
             error: function (error) {
                 alert('Lỗi trong quá trình thêm sự kiện');

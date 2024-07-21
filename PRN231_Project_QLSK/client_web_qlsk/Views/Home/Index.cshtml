@@ -1,31 +1,33 @@
 ﻿@{
-    Layout = "_LayoutHome";
+	Layout = "_LayoutHome";
 }
 
 <style>
-    a {
-        cursor: pointer;
-    }
+	a {
+		cursor: pointer;
+	}
 </style>
 
 <div class="page-wrapper">
-    <div class="content container-fluid">
+	<div class="content container-fluid">
+		<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#datetimeModal">
+			Sắp tới
+		</button>
+		<div class="page-header">
+			<div class="row">
+				<div class="col-sm-12">
+					<h3 class="page-title">Sự kiện </h3>
 
-        <div class="page-header">
-            <div class="row">
-                <div class="col-sm-12">
-                    <h3 class="page-title">Sự kiện </h3>
-
-                </div>
-            </div>
-        </div>
-        <div class="mb-3">
-            <div style="margin-top: 10px;
+				</div>
+			</div>
+		</div>
+		<div class="mb-3">
+			<div style="margin-top: 10px;
     position: relative;
     width: 230px;">
-                <input type="text" style="border-radius:5px" class="form-control" placeholder="Search here">
-                <button class="btn" type="submit" 
-                    style="background-color: transparent;
+				<input type="text" style="border-radius:5px" class="form-control" placeholder="Search here">
+				<button class="btn" type="submit"
+						style="background-color: transparent;
     border-color: transparent;
     color: #333;
     min-height: 40px;
@@ -33,25 +35,78 @@
     position: absolute;
     right: 0;
     top: 0;">
-                    <i class="fa fa-search"></i>
-                </button>
-            </div>
-        </div>
+					<i class="fa fa-search"></i>
+				</button>
+			</div>
+		</div>
 
-        <div class="row">
-            <div class="col-sm-12">
-                <div class="card">
-                    <div class="card-body">
+		<div class="row">
+			<div class="col-sm-12">
+				<div class="card">
+					<div class="card-body">
 
-                        <div class="row" id="listEvent">
-                        </div>
+						<div class="row" id="listEvent">
+						</div>
 
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
 <script src="~/assets/js/jquery-3.6.0.min.js"></script>
 <script src="~/assets/js/bootstrap.bundle.min.js"></script>
 <script src="/js/home.js"></script>
+
+
+
+<!-- The Modal -->
+<div class="modal fade" id="datetimeModal" tabindex="-1" aria-labelledby="datetimeModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title" id="datetimeModalLabel">Sự kiện sắp tới</h5>
+				<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+			</div>
+			<div class="modal-body">
+
+				<div class="mb-3" id="listsukien">
+					<label for="scheduleEndDate" class="form-label" id="titleModal">Du lịch</label><span id="dateModal">- Còn 2 ngày</span> <br />
+
+				</div>
+
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="modal fade" id="shareTable" tabindex="-1" aria-labelledby="datetimeModalLabel" aria-hidden="true">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title" id="datetimeModalLabel">Sự kiện sắp tới</h5>
+				<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+			</div>
+			<div class="modal-body">
+				<table class="table">
+					<thead>
+						<tr>
+							<th scope="col">UserName</th>
+							<th scope="col">Email</th>
+							<th>Action</th>
+						</tr>
+					</thead>
+					<tbody id="eventTableBody">
+					
+					</tbody>
+				</table>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+			</div>
+		</div>
+	</div>
+</div>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "m30944m0ICrpD6IwH+d/0mEjklwJYT6o6QVRFIflFmU=",
+  "Hash": "cuK3HjS3dcKcIOBA00oIIc/s60XaCfvBE31bU7S2utc=",
   "Source": "client_web_qlsk",
   "BasePath": "_content/client_web_qlsk",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "client_web_qlsk\\wwwroot",
       "Source": "client_web_qlsk",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\obj\\Debug\\net6.0\\scopedcss\\bundle\\client_web_qlsk.styles.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\obj\\Debug\\net6.0\\scopedcss\\bundle\\client_web_qlsk.styles.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "client_web_qlsk.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\obj\\Debug\\net6.0\\scopedcss\\bundle\\client_web_qlsk.styles.css"
+      "OriginalItemSpec": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\obj\\Debug\\net6.0\\scopedcss\\bundle\\client_web_qlsk.styles.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\client_web_qlsk.bundle.scp.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\client_web_qlsk.bundle.scp.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "client_web_qlsk.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\client_web_qlsk.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\client_web_qlsk.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\css\\bootstrap-datetimepicker.min.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\css\\bootstrap-datetimepicker.min.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/css/bootstrap-datetimepicker.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap-datetimepicker.min.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\css\\ckeditor.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\css\\ckeditor.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/css/ckeditor.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\ckeditor.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\css\\feather.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\css\\feather.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/css/feather.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\feather.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\css\\feathericon.min.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\css\\feathericon.min.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/css/feathericon.min.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\feathericon.min.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\css\\font-awesome.min.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\css\\style.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\css\\style.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/css/style.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\Feather144f.svg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\Feather144f.svg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/fonts/Feather144f.svg",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Feather144f.svg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\Feather144f.ttf",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\Feather144f.ttf",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/fonts/Feather144f.ttf",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Feather144f.ttf"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\Feather144f.woff",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\Feather144f.woff",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/fonts/Feather144f.woff",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Feather144f.woff"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\feathericon.eot",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\feathericon.eot",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/fonts/feathericon.eot",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\feathericon.eot"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\feathericon.svg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\feathericon.svg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/fonts/feathericon.svg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\feathericon.svg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\feathericon.ttf",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\feathericon.ttf",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/fonts/feathericon.ttf",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\feathericon.ttf"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\feathericon.woff",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\feathericon.woff",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/fonts/feathericon.woff",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\feathericon.woff"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\feathericond41d.eot",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\feathericond41d.eot",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/fonts/feathericond41d.eot",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\feathericond41d.eot"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/fonts/fontawesome-webfont3e6e.eot",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.eot"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.html",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.html",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/fonts/fontawesome-webfont3e6e.html",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.html"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/fonts/fontawesome-webfont3e6e.svg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.svg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/fonts/fontawesome-webfont3e6e.ttf",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.ttf"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/fonts/fontawesome-webfont3e6e.woff",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont3e6e.woff"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/fonts/fontawesome-webfontd41d.eot",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfontd41d.eot"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.eot",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.eot",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/fonts/MaterialIcons-Regular.eot",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\MaterialIcons-Regular.eot"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.html",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.html",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/fonts/MaterialIcons-Regular.html",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\MaterialIcons-Regular.html"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.ttf",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.ttf",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/fonts/MaterialIcons-Regular.ttf",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\MaterialIcons-Regular.ttf"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.woff",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\fonts\\MaterialIcons-Regular.woff",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/fonts/MaterialIcons-Regular.woff",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\MaterialIcons-Regular.woff"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\blog\\blog-01.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\blog\\blog-01.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/blog/blog-01.jpg",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog\\blog-01.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\blog\\blog-02.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\blog\\blog-02.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/blog/blog-02.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog\\blog-02.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\blog\\blog-03.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\blog\\blog-03.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/blog/blog-03.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\blog\\blog-03.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\favicon.png",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\favicon.png",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/favicon.png",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\favicon.png"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\github.html",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\github.html",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/github.html",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\github.html"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\icons\\invoices-icon1.svg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\icons\\invoices-icon1.svg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/icons/invoices-icon1.svg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\icons\\invoices-icon1.svg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\icons\\invoices-icon2.svg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\icons\\invoices-icon2.svg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/icons/invoices-icon2.svg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\icons\\invoices-icon2.svg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\icons\\invoices-icon3.svg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\icons\\invoices-icon3.svg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/icons/invoices-icon3.svg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\icons\\invoices-icon3.svg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\icons\\invoices-icon4.svg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\icons\\invoices-icon4.svg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/icons/invoices-icon4.svg",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\icons\\invoices-icon4.svg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\icons\\invoices-icon5.svg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\icons\\invoices-icon5.svg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/icons/invoices-icon5.svg",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\icons\\invoices-icon5.svg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\img-01.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\img-01.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/img-01.jpg",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\img-01.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\invoice-circle1.png",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\invoice-circle1.png",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/invoice-circle1.png",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\invoice-circle1.png"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\invoice-circle2.png",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\invoice-circle2.png",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/invoice-circle2.png",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\invoice-circle2.png"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\logo.png",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\logo.png",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/logo.png",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo.png"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\logo-small.png",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\logo-small.png",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/logo-small.png",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo-small.png"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\logo-white.png",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\logo-white.png",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/logo-white.png",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo-white.png"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-01.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-01.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/profiles/avatar-01.jpg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\profiles\\avatar-01.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-03.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-03.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/profiles/avatar-03.jpg",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\profiles\\avatar-03.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-04.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-04.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/profiles/avatar-04.jpg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\profiles\\avatar-04.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-06.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-06.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/profiles/avatar-06.jpg",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\profiles\\avatar-06.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-07.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-07.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/profiles/avatar-07.jpg",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\profiles\\avatar-07.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-08.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-08.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/profiles/avatar-08.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\profiles\\avatar-08.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-09.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-09.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/profiles/avatar-09.jpg",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\profiles\\avatar-09.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-10.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-10.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/profiles/avatar-10.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\profiles\\avatar-10.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-11.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-11.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/profiles/avatar-11.jpg",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\profiles\\avatar-11.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-12.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-12.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/profiles/avatar-12.jpg",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\profiles\\avatar-12.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-13.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-13.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/profiles/avatar-13.jpg",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\profiles\\avatar-13.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-14.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-14.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/profiles/avatar-14.jpg",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\profiles\\avatar-14.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-17.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-17.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/profiles/avatar-17.jpg",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\profiles\\avatar-17.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-18.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\profiles\\avatar-18.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/profiles/avatar-18.jpg",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\profiles\\avatar-18.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\signature.png",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\signature.png",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/signature.png",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\signature.png"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/user/user.jpg",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\user\\user.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user1.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user1.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/user/user1.jpg",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\user\\user1.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user11.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user11.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/user/user11.jpg",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\user\\user11.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user12.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user12.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/user/user12.jpg",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\user\\user12.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user2.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user2.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/user/user2.jpg",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\user\\user2.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user3.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user3.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/user/user3.jpg",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\user\\user3.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user4.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user4.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/user/user4.jpg",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\user\\user4.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user5.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user5.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/user/user5.jpg",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\user\\user5.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user6.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user6.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/user/user6.jpg",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\user\\user6.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user7.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user7.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/user/user7.jpg",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\user\\user7.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user8.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user8.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/user/user8.jpg",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\user\\user8.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user9.jpg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\img\\user\\user9.jpg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/img/user/user9.jpg",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\user\\user9.jpg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\bootstrap-datetimepicker.min.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\bootstrap-datetimepicker.min.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/js/bootstrap-datetimepicker.min.js",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap-datetimepicker.min.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\ckeditor.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\ckeditor.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/js/ckeditor.js",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\ckeditor.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\chart.morris.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\chart.morris.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/js/chart.morris.js",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\chart.morris.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\feather.min.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\feather.min.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/js/feather.min.js",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\feather.min.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\form-validation.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\form-validation.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/js/form-validation.js",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\form-validation.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\jquery.maskedinput.min.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\jquery.maskedinput.min.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/js/jquery.maskedinput.min.js",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.maskedinput.min.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\jquery-3.6.0.min.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\jquery-3.6.0.min.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/js/jquery-3.6.0.min.js",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery-3.6.0.min.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\mask.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\mask.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/js/mask.js",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\mask.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\moment.min.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\moment.min.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/js/moment.min.js",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\moment.min.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\script.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\js\\script.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/js/script.js",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\script.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\bootstrap-tagsinput\\css\\bootstrap-tagsinput.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\bootstrap-tagsinput\\css\\bootstrap-tagsinput.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/bootstrap-tagsinput/css/bootstrap-tagsinput.css",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\bootstrap-tagsinput\\css\\bootstrap-tagsinput.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\bootstrap-tagsinput\\js\\bootstrap-tagsinput.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\bootstrap-tagsinput\\js\\bootstrap-tagsinput.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/bootstrap-tagsinput/js/bootstrap-tagsinput.js",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\bootstrap-tagsinput\\js\\bootstrap-tagsinput.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\datatables\\datatables.min.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\datatables\\datatables.min.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/datatables/datatables.min.css",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\datatables\\datatables.min.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\datatables\\datatables.min.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\datatables\\datatables.min.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/datatables/datatables.min.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\datatables\\datatables.min.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\datatables\\jquery.dataTables.min.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\datatables\\jquery.dataTables.min.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/datatables/jquery.dataTables.min.js",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\datatables\\jquery.dataTables.min.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\css\\all.min.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\css\\all.min.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/fontawesome/css/all.min.css",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\fontawesome\\css\\all.min.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\css\\fontawesome.min.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\css\\fontawesome.min.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/fontawesome/css/fontawesome.min.css",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\fontawesome\\css\\fontawesome.min.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.eot",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/fontawesome/webfonts/fa-brands-400.eot",
       "AssetKind": "All",
@@ -1708,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.html",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.html",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/fontawesome/webfonts/fa-brands-400.html",
       "AssetKind": "All",
@@ -1727,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.html"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.svg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/fontawesome/webfonts/fa-brands-400.svg",
       "AssetKind": "All",
@@ -1746,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.ttf",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/fontawesome/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -1765,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/fontawesome/webfonts/fa-brands-400.woff",
       "AssetKind": "All",
@@ -1784,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400d41d.eot",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400d41d.eot",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/fontawesome/webfonts/fa-brands-400d41d.eot",
       "AssetKind": "All",
@@ -1803,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-brands-400d41d.eot"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.eot",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/fontawesome/webfonts/fa-regular-400.eot",
       "AssetKind": "All",
@@ -1822,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.html",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.html",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/fontawesome/webfonts/fa-regular-400.html",
       "AssetKind": "All",
@@ -1841,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.html"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.svg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/fontawesome/webfonts/fa-regular-400.svg",
       "AssetKind": "All",
@@ -1860,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.ttf",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/fontawesome/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -1879,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/fontawesome/webfonts/fa-regular-400.woff",
       "AssetKind": "All",
@@ -1898,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400d41d.eot",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400d41d.eot",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/fontawesome/webfonts/fa-regular-400d41d.eot",
       "AssetKind": "All",
@@ -1917,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-regular-400d41d.eot"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.eot",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/fontawesome/webfonts/fa-solid-900.eot",
       "AssetKind": "All",
@@ -1936,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.html",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.html",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/fontawesome/webfonts/fa-solid-900.html",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.html"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.svg",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/fontawesome/webfonts/fa-solid-900.svg",
       "AssetKind": "All",
@@ -1974,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.ttf",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/fontawesome/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -1993,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/fontawesome/webfonts/fa-solid-900.woff",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900d41d.eot",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900d41d.eot",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/fontawesome/webfonts/fa-solid-900d41d.eot",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\fontawesome\\webfonts\\fa-solid-900d41d.eot"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\morris\\morris.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\morris\\morris.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/morris/morris.css",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\morris\\morris.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\morris\\morris.min.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\morris\\morris.min.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/morris/morris.min.js",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\morris\\morris.min.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\raphael\\raphael.min.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\raphael\\raphael.min.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/raphael/raphael.min.js",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\raphael\\raphael.min.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\select2\\css\\select2.min.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\select2\\css\\select2.min.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/select2/css/select2.min.css",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\select2\\css\\select2.min.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\select2\\js\\select2.min.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\select2\\js\\select2.min.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/select2/js/select2.min.js",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\select2\\js\\select2.min.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\slimscroll\\jquery.slimscroll.min.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\assets\\plugins\\slimscroll\\jquery.slimscroll.min.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "assets/plugins/slimscroll/jquery.slimscroll.min.js",
       "AssetKind": "All",
@@ -2145,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\slimscroll\\jquery.slimscroll.min.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\css\\login.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\css\\login.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "css/login.css",
       "AssetKind": "All",
@@ -2164,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\favicon.ico",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -2183,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\js\\home.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\js\\home.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "js/home.js",
       "AssetKind": "All",
@@ -2202,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\js\\home.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\js\\login.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\js\\login.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "js/login.js",
       "AssetKind": "All",
@@ -2221,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\js\\login.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\js\\register.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\js\\register.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "js/register.js",
       "AssetKind": "All",
@@ -2240,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\js\\register.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\js\\site.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2259,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2297,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2316,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2335,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2354,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2373,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2392,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2411,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2430,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2449,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2468,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2487,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2506,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2525,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2544,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2563,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2582,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2620,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2639,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2658,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2677,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2696,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2715,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2734,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2753,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2772,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2791,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2810,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2829,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2848,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2867,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2886,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2905,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2943,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2962,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2981,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -3000,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -3019,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -3038,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3057,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3076,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3095,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3114,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3133,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3152,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3171,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3190,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3209,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3228,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3266,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3285,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3304,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3323,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "client_web_qlsk",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Documents\\PRN231\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\INS 5310\\Desktop\\PRN231_Project\\PRN231_Project_QLSK\\client_web_qlsk\\wwwroot\\",
       "BasePath": "_content/client_web_qlsk",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

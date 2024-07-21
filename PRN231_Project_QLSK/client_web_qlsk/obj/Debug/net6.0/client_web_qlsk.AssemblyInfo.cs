@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("client_web_qlsk")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee5fb9849891947f8cdc5f6051c964706a7618e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57a8d09bd0abb97eba847f580982b32dfc0efb2d")]
 [assembly: System.Reflection.AssemblyProductAttribute("client_web_qlsk")]
 [assembly: System.Reflection.AssemblyTitleAttribute("client_web_qlsk")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

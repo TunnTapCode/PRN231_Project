@@ -1,392 +1,437 @@
 ﻿@{
-    Layout = "_LayoutHome";
+	Layout = "_LayoutHome";
 }
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 
 <div class="page-wrapper">
-    <div class="content container-fluid">
+	<div class="content container-fluid">
 
-        <div class="page-header">
-            <div class="row">
-                <div class="col-sm-12">
-                    <h3 class="page-title">Thêm sự kiện</h3>
+		<div class="page-header">
+			<div class="row">
+				<div class="col-sm-12">
+					<h3 class="page-title">Thêm sự kiện</h3>
 
-                </div>
-            </div>
-        </div>
+				</div>
+			</div>
+		</div>
 
-        <div class="row">
-            <div class="col-sm-8">
-                <div class="card">
-                    <div class="card-body">
+		<div class="row">
+			<div class="col-sm-8">
+				<div class="card">
+					<div class="card-body">
 
-                        <div class="row">
-                            <div class="col-12 blog-details">
+						<div class="row">
+							<div class="col-12 blog-details">
 
-                                <div class="form-group">
-                                    <label>Tiêu đề</label>
-                                    <input class="form-control" id="title" type="text">
-                                </div>
-                                <input class="form-control" id="idEvent" type="hidden">
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="form-group">
-                                            <label>Ảnh</label>
-                                            <div>
-                                                <input class="form-control" id="image" type="text">
+								<div class="form-group">
+									<label>Tiêu đề</label>
+									<input class="form-control" id="title" type="text">
+								</div>
+								<input class="form-control" id="idEvent" type="hidden">
+								<div class="row">
+									<div class="col-md-6">
+										<div class="form-group">
+											<label>Ảnh</label>
+											<div>
+												<input class="form-control" id="image" type="text">
 
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <div class="form-group">
-                                            <label>Địa điểm</label>
-                                            <input class="form-control" id="location" type="text">
-                                        </div>
-                                    </div>
-                                    @*  <div class="col-md-6">
-                                    <div class="form-group">
-                                    <label>Tags</label>
-                                    <select class="select select2-hidden-accessible form-control"
-                                    tabindex="-1" aria-hidden="true">
-                                    <option>Công việc</option>
-                                    <option>Gia đình</option>
-                                    <option>Du lịch</option>
-                                    <option>Party</option>
-                                    <option>Bạn bè</option>
-                                    </select>
-                                    </div>
-                                    </div> *@
-                                </div>
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="form-group">
-                                            <label>Ngày bắt đầu</label>
-                                            <input class="form-control" id="startdate" type="date" onfocus="this.min = new Date().toISOString().split('T')[0]">
-                                        </div>
-                                    </div>
-                                    <div class="col-md-6">
-                                        <div class="form-group">
-                                            <label>Ngày kết thúc</label>
-                                            <input class="form-control" id="enddate" type="date" onfocus="this.min = new Date().toISOString().split('T')[0]">
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="form-group">
-                                    <label>Mô tả</label>
-                                    <textarea cols="30" rows="6" id="description" class="form-control"></textarea>
-                                </div>
+											</div>
+										</div>
+									</div>
+									<div class="col-md-6">
+										<div class="form-group">
+											<label>Địa điểm</label>
+											<input class="form-control" id="location" type="text">
+										</div>
+									</div>
+									@*  <div class="col-md-6">
+									<div class="form-group">
+									<label>Tags</label>
+									<select class="select select2-hidden-accessible form-control"
+									tabindex="-1" aria-hidden="true">
+									<option>Công việc</option>
+									<option>Gia đình</option>
+									<option>Du lịch</option>
+									<option>Party</option>
+									<option>Bạn bè</option>
+									</select>
+									</div>
+									</div> *@
+								</div>
+								<div class="row">
+									<div class="col-md-6">
+										<div class="form-group">
+											<label>Ngày bắt đầu</label>
+											<input class="form-control" id="startdate" type="date" onfocus="this.min = new Date().toISOString().split('T')[0]">
+										</div>
+									</div>
+									<div class="col-md-6">
+										<div class="form-group">
+											<label>Ngày kết thúc</label>
+											<input class="form-control" id="enddate" type="date" onfocus="this.min = new Date().toISOString().split('T')[0]">
+										</div>
+									</div>
+								</div>
+								<div class="form-group">
+									<label>Mô tả</label>
+									<textarea cols="30" rows="6" id="description" class="form-control"></textarea>
+								</div>
 
-                                <div class="m-t-20 text-center">
-                                    <button class="btn btn-primary btn-lg" onclick="updateEvent()">Cập nhật</button>
-                                </div>
+								<div class="m-t-20 text-center">
+									<button class="btn btn-primary btn-lg" onclick="updateEvent()">Cập nhật</button>
+								</div>
 
-                            </div>
-                        </div>
+							</div>
+						</div>
 
-                    </div>
-                </div>
-            </div>
-
-
-
-            <div class="col-sm-4">
-                <button type="button" class="btn btn-primary mb-3" onclick="openAddScheduleModal()">
-                    <i class="fa-solid fa-plus-circle"></i> Lịch trình
-                </button>
-               
-                <div class="card">
-                    <div class="card-body">
-                        <div class="row">
-                            <div class="col-md">
-                                <div id="scheduleList" class="list-group">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+					</div>
+				</div>
+			</div>
 
 
-        </div>
 
-    </div>
+			<div class="col-sm-4">
+				<button type="button" class="btn btn-primary mb-3" onclick="openAddScheduleModal()">
+					<i class="fa-solid fa-plus-circle"></i> Lịch trình
+				</button>
+
+				<div class="card">
+					<div class="card-body">
+						<div class="row">
+							<div class="col-md">
+								<div id="scheduleList" class="list-group">
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
 
 
-    <div class="modal fade " id="addScheduleModal" aria-hidden="true" role="dialog">
-        <div class="modal-dialog modal-lg" role="document">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title">Thêm lịch trình mới</h5>
-                    <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-                <div class="modal-body">
-                    <div class="form-group">
-                        <label for="scheduleTitle">Tiêu đề</label>
-                        <input type="text" class="form-control" id="scheduleTitle">
-                    </div>
-                    <div class="form-group">
-                        <label for="scheduleLocation">Địa điểm</label>
-                        <input type="text" class="form-control" id="scheduleLocation">
-                    </div>
-                    <div class="row">
-                        <div class="col-md-6">
-                            <div class="form-group">
-                                <label for="scheduleStartDate">Bắt đầu</label>
-                                <input type="datetime-local" class="form-control" id="scheduleStartDate">
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="form-group">
-                                <label for="scheduleEndDate">Kết thúc</label>
-                                <input type="datetime-local" class="form-control" id="scheduleEndDate">
-                            </div>
-                        </div>
-                    </div>
+		</div>
 
-                    <div class="form-group">
-                        <label>Mô tả</label>
-                        <textarea id="descriptionSchedule" cols="30" rows="6" class="form-control"></textarea>
-                    </div>
-                    <div>
-                        <button class="btn btn-primary btn-lg" onclick="addSchedule()">Thêm lịch trình</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+	</div>
+
+
+	<div class="modal fade " id="addScheduleModal" aria-hidden="true" role="dialog">
+		<div class="modal-dialog modal-lg" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h5 class="modal-title">Thêm lịch trình mới</h5>
+					<button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+						<span aria-hidden="true">&times;</span>
+					</button>
+				</div>
+				<div class="modal-body">
+					<div class="form-group">
+						<label for="scheduleTitle">Tiêu đề</label>
+						<input type="text" class="form-control" id="scheduleTitle">
+					</div>
+					<div class="form-group">
+						<label for="scheduleLocation">Địa điểm</label>
+						<input type="text" class="form-control" id="scheduleLocation">
+					</div>
+					<div class="row">
+						<div class="col-md-6">
+							<div class="form-group">
+								<label for="scheduleStartDate">Bắt đầu</label>
+								<input type="datetime-local" class="form-control" id="scheduleStartDate" onfocus="this.min = new Date().toISOString().slice(0, 16) ">
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="form-group">
+								<label for="scheduleEndDate">Kết thúc</label>
+								<input type="datetime-local" class="form-control" id="scheduleEndDate" onfocus="this.min = new Date().toISOString().slice(0, 16)">
+							</div>
+						</div>
+					</div>
+
+					<div class="form-group">
+						<label>Mô tả</label>
+						<textarea id="descriptionSchedule" cols="30" rows="6" class="form-control"></textarea>
+					</div>
+					<div>
+						<button class="btn btn-primary btn-lg" onclick="addSchedule()">Thêm lịch trình</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
-<script>
-
-    function loadSchedule(listschedule) {
-        listschedule.sort(function (a, b) {
-            return new Date(a.StartTime) - new Date(b.StartTime);
-        });
-        var scheduleList = $('#scheduleList');
-        listschedule.forEach(function (schedule, index) {
-            var scheduleItem = `
-                    <div class="list-group-item mt-3">
-                         <button class="btn btn-danger btn-sm delete-icon position-absolute" style="top: 10px; right: 10px;">
-                                <i class="fas fa-trash-alt"></i>
-                            </button>
-                        <h5 class="mb-1">${schedule.title}</h5>
-                        <input type="hidden" value="${schedule.scheduleId}" />
-                        <p class="mb-1"><strong>Địa điểm:</strong> ${schedule.location}</p>
-                        <p class="mb-1"><strong>Bắt đầu:</strong> ${schedule.startTime}</p>
-                        <p class="mb-1"><strong>Kết thúc:</strong> ${schedule.endTime}</p>
-                        <p class="mb-1"><strong>Mô tả:</strong> ${schedule.description}</p>
-                    </div>
-                `;
-            scheduleList.append(scheduleItem);
-        });
-    }
-    function openAddScheduleModal() {
-
-        debugger
-        $('#addScheduleModal').modal('show');
-        var title = $('#scheduleTitle').val("");
-        var location = $('#scheduleLocation').val("");
-        var startDate = $('#scheduleStartDate').val("");
-        var endDate = $('#scheduleEndDate').val("");
-        var description = $('#descriptionSchedule').val("");
-    }
-    var listschedule = [];
-
-    function addSchedule() {
-        debugger
-        var title = $('#scheduleTitle').val();
-        var location = $('#scheduleLocation').val();
-        var startDate = $('#scheduleStartDate').val();
-        var endDate = $('#scheduleEndDate').val();
-        var description = $('#descriptionSchedule').val();
-
-        var newStartTime = new Date(startDate);
-        var newEndTime = new Date(endDate);
-
-        if (newEndTime <= newStartTime) {
-            alert('Thời gian kết thúc phải lớn hơn thời gian bắt đầu.');
-            return;
-        }
-        var newSchedule = {
-            title: title,
-            location: location,
-            startTime: startDate,
-            endTime: endDate,
-            description: description
-        };
-
-        var isOverlap = listschedule.some(function (schedule) {
-            return (
-                (startDate >= schedule.StartTime && startDate < schedule.EndTime) ||
-                (endDate > schedule.StartTime && endDate <= schedule.EndTime) ||
-                (startDate <= schedule.StartTime && endDate >= schedule.EndTime)
-            );
-        });
-        if (isOverlap) {
-            alert('Thời gian bắt đầu hoặc kết thúc trùng với lịch trình đã có.');
-
-        } else {
-            listschedule.push(newSchedule);
-            alert('Thành công.');
-            $('#addScheduleModal').modal('hide');
-
-        }
-        loadSchedule(listschedule);
-    }
-
-
-</script>
 <script src="~/lib/jquery/dist/jquery.min.js"></script>
 <script src="~/lib/jquery/dist/jquery.js"></script>
 <script>
+	var listschedule = [];
+	var listscheduleCheck = [];
+	function loadSchedule(listschedule) {
+		listschedule.sort(function (a, b) {
+			return new Date(a.StartTime) - new Date(b.StartTime);
+		});
+		var scheduleList = $('#scheduleList');
+		listschedule.forEach(function (schedule, index) {
+			var scheduleItem = `
+						<div class="list-group-item mt-3">
+							 <button class="btn btn-danger btn-sm delete-icon position-absolute" style="top: 10px; right: 10px;">
+									<i class="fas fa-trash-alt"></i>
+								</button>
+							<h5 class="mb-1">${schedule.title}</h5>
+							<input type="hidden" value="${schedule.scheduleId}" />
+							<p class="mb-1"><strong>Địa điểm:</strong> ${schedule.location}</p>
+							<p class="mb-1"><strong>Bắt đầu:</strong> ${schedule.startTime}</p>
+							<p class="mb-1"><strong>Kết thúc:</strong> ${schedule.endTime}</p>
+							<p class="mb-1"><strong>Mô tả:</strong> ${schedule.description}</p>
+						</div>
+					`;
+			scheduleList.append(scheduleItem);
+		});
+	}
+	function openAddScheduleModal() {
 
-    function updateEvent() {
-        debugger
-        var token = localStorage.getItem('jwt');
-        var user = localStorage.getItem('username');
-
-        var title = $('#title').val();
-        var id = $('#idEvent').val();
-        var image = $('#image').val();
-        var location = $('#location').val();
-        var startDate = $('#startdate').val();
-        var endDate = $('#enddate').val();
-        var description = $('#description').val();
-
-        var formData = new FormData();
-
-        formData.append('image', image);
-        formData.append('title', title);
-        formData.append('idEvent', id);
-        formData.append('location', location);
-        formData.append('startDate', startDate);
-        formData.append('endDate', endDate);
-        formData.append('description', description);
-        formData.append('username', user);
-        formData.append('schedule', JSON.stringify(listschedule));
-
-        var listInputId = [];
-        const listItems = $('.list-group-item');
-        listItems.each(function () {
-            debugger
-            const scheduleId = $(this).find('input[type="hidden"]').val();
-            listInputId.push(scheduleId);
-        });
-
-        formData.append('listId', JSON.stringify(listInputId));
-
-
-        $.ajax({
-            url: 'http://localhost:5100/api/Event',
-            type: 'PUT',
-            headers: {
-                'Authorization': 'Bearer ' + token
-            },
-            data: formData,
-            contentType: false,
-            processData: false,
-            success: function (response) {
-                debugger
-                alert(response.message);
-            },
-            error: function (error) {
-                alert('Lỗi trong quá trình thêm sự kiện');
-            }
-        });
-
-    }
-</script>
-
-<script>
-    $(document).ready(function () {
-        var url = window.location.href;
-        var parts = url.split('/');
-        var id = parts[parts.length - 1];
-        loadEvent(id);
-        GetSchedule(id)
-        
-
-    });
-
-    function loadEvent(id){
-        var token = localStorage.getItem('jwt');
-        $.ajax({
-            url: 'http://localhost:5100/api/Event/' + id,
-            type: 'get',
-            dataType: 'json',
-            contentType: 'application/json',
-            headers: {
-                'Authorization': 'Bearer ' + token
-            },
-
-            success: function (res) {
-                debugger
-                $('#title').val(res.title) ;
-                $('#idEvent').val(id);
-                $('#image').val(res.image);
-                $('#location').val(res.location);
-                $('#description').val(res.description);
-                if (res && res.startTime && res.endTime) {
-                    var startDate = new Date(res.startTime);
-                    var endDate = new Date(res.endTime);
-
-                    var formattedStartDate = startDate.toLocaleDateString('en-CA', {
-                        year: 'numeric',
-                        month: '2-digit',
-                        day: '2-digit'
-                    });
-
-                    var formattedEndDate = endDate.toLocaleDateString('en-CA', {
-                        year: 'numeric',
-                        month: '2-digit',
-                        day: '2-digit'
-                    });
-
-                    // Set the formatted dates to the input fields
-                    $('#startdate').val(formattedStartDate);
-                    $('#enddate').val(formattedEndDate);
-                }
-               
-            },
-            error: function (error) {
-                debugger
-                alert('Lỗi trong quá trình thêm sự kiện');
-            }
-        });
-    }
-
-    function GetSchedule(id) {
-        var token = localStorage.getItem('jwt');
-        $.ajax({
-            url: 'http://localhost:5100/api/Event/Schedule/' + id,
-            type: 'get',
-            dataType: 'json',
-            contentType: 'application/json',
-            headers: {
-                'Authorization': 'Bearer ' + token
-            },
-
-            success: function (response) {
-                debugger
-
-                loadSchedule(response)
-               
-            },
-            error: function (error) {
-                debugger
-                alert('Lỗi trong quá trình thêm sự kiện');
-            }
-        });
-    }
+		debugger
+		$('#addScheduleModal').modal('show');
+		var title = $('#scheduleTitle').val("");
+		var location = $('#scheduleLocation').val("");
+		var startDate = $('#scheduleStartDate').val("");
+		var endDate = $('#scheduleEndDate').val("");
+		var description = $('#descriptionSchedule').val("");
+	}
 
 
-    // Gắn sự kiện xóa thẻ card
-    $(document).on('click', '.delete-icon', function () {
-        debugger
-        $(this).closest('.list-group-item').remove();
-    });
+	function addSchedule() {
+		debugger
+		var title = $('#scheduleTitle').val();
+		var location = $('#scheduleLocation').val();
+		var startDate = $('#scheduleStartDate').val();
+		var endDate = $('#scheduleEndDate').val();
+		var description = $('#descriptionSchedule').val();
+
+		var newStartTime = new Date(startDate);
+		var newEndTime = new Date(endDate);
+
+		var EventstartDate = new Date($('#startdate').val());
+		var EventendDate = new Date($('#enddate').val());
+
+		debugger
+		if (newStartTime < EventstartDate || newStartTime > EventendDate || newEndTime < EventstartDate || newEndTime > EventendDate) {
+			alert('Ngày bắt đầu và kết thúc phải nằm trong khoảng thời gian sự kiện');
+			return;
+		}
+
+		if (newEndTime <= newStartTime) {
+			alert('Thời gian kết thúc phải lớn hơn thời gian bắt đầu.');
+			return;
+		}
+			var newSchedule = {
+				title: title,
+				location: location,
+				startTime: startDate,
+				endTime: endDate,
+				description: description
+			};
+			debugger
+		   var isOverlap = listscheduleCheck.some(function (schedule) {
+				debugger
+				var scheduleExistStart = new Date(schedule.startTime);
+			    var scheduleExistEnd = new Date(schedule.endTime);
+			return (
+				(newStartTime >= scheduleExistStart && newStartTime < scheduleExistEnd) ||
+
+				(newEndTime > scheduleExistStart && newEndTime <= scheduleExistEnd) ||
+
+				(newStartTime <= scheduleExistStart && newEndTime >= scheduleExistEnd) ||
+
+				(newStartTime >= scheduleExistStart && newEndTime <= scheduleExistEnd) ||
+
+				(newStartTime <= scheduleExistStart && newEndTime > scheduleExistEnd) ||
+
+				(newStartTime < scheduleExistStart && newEndTime >= scheduleExistEnd)
+			);
+			});
+			
+
+		var isOverlap1 = listschedule.some(function (schedule) {
+			debugger
+			var scheduleExistStart = new Date(schedule.startTime);
+			var scheduleExistEnd = new Date(schedule.endTime);
+			return (
+				(newStartTime >= scheduleExistStart && newStartTime < scheduleExistEnd) ||
+
+				(newEndTime > scheduleExistStart && newEndTime <= scheduleExistEnd) ||
+
+				(newStartTime <= scheduleExistStart && newEndTime >= scheduleExistEnd) ||
+
+				(newStartTime >= scheduleExistStart && newEndTime <= scheduleExistEnd) ||
+
+				(newStartTime <= scheduleExistStart && newEndTime > scheduleExistEnd) ||
+
+				(newStartTime < scheduleExistStart && newEndTime >= scheduleExistEnd)
+			);
+		});
+		if (isOverlap1 || isOverlap) {
+			alert('Thời gian bắt đầu hoặc kết thúc trùng với lịch trình đã có.');
+
+		} if (!isOverlap1 && !isOverlap) {
+			listschedule.push(newSchedule);
+			alert('Thành công.');
+			$('#addScheduleModal').modal('hide');
+			var scheduleList = $('#scheduleList');
+			scheduleList.empty();
+			loadSchedule(listschedule);
+
+		}
+			
+		
+	}
+
+		function updateEvent() {
+			debugger
+			var token = localStorage.getItem('jwt');
+			var user = localStorage.getItem('username');
+
+			var title = $('#title').val();
+			var id = $('#idEvent').val();
+			var image = $('#image').val();
+			var location = $('#location').val();
+			var startDate = $('#startdate').val();
+			var endDate = $('#enddate').val();
+			var description = $('#description').val();
+
+			var formData = new FormData();
+
+			formData.append('image', image);
+			formData.append('title', title);
+			formData.append('idEvent', id);
+			formData.append('location', location);
+			formData.append('startDate', startDate);
+			formData.append('endDate', endDate);
+			formData.append('description', description);
+			formData.append('username', user);
+			formData.append('schedule', JSON.stringify(listschedule));
+			debugger
+			var listInputId = [];
+			const listItems = $('.list-group-item');
+			listItems.each(function () {
+				debugger
+				const scheduleId = $(this).find('input[type="hidden"]').val();
+				listInputId.push(scheduleId);
+			});
+
+			formData.append('listId', JSON.stringify(listInputId));
+
+
+			$.ajax({
+				url: 'http://localhost:5100/api/Event',
+				type: 'PUT',
+				headers: {
+					'Authorization': 'Bearer ' + token
+				},
+				data: formData,
+				contentType: false,
+				processData: false,
+				success: function (response) {
+					debugger
+					alert(response.message);
+					window.location.href = "/home"
+				},
+				error: function (error) {
+					alert('Lỗi trong quá trình thêm sự kiện');
+				}
+			});
+
+		}
+	
+
+		$(document).ready(function () {
+			var url = window.location.href;
+			var parts = url.split('/');
+			var id = parts[parts.length - 1];
+			loadEvent(id);
+			GetSchedule(id)
+
+
+		});
+
+		function loadEvent(id) {
+			var token = localStorage.getItem('jwt');
+			$.ajax({
+				url: 'http://localhost:5100/api/Event/' + id,
+				type: 'get',
+				dataType: 'json',
+				contentType: 'application/json',
+				headers: {
+					'Authorization': 'Bearer ' + token
+				},
+
+				success: function (res) {
+					debugger
+					$('#title').val(res.title);
+					$('#idEvent').val(id);
+					$('#image').val(res.image);
+					$('#location').val(res.location);
+					$('#description').val(res.description);
+					if (res && res.startTime && res.endTime) {
+						var startDate = new Date(res.startTime);
+						var endDate = new Date(res.endTime);
+
+						var formattedStartDate = startDate.toLocaleDateString('en-CA', {
+							year: 'numeric',
+							month: '2-digit',
+							day: '2-digit'
+						});
+
+						var formattedEndDate = endDate.toLocaleDateString('en-CA', {
+							year: 'numeric',
+							month: '2-digit',
+							day: '2-digit'
+						});
+
+						// Set the formatted dates to the input fields
+						$('#startdate').val(formattedStartDate);
+						$('#enddate').val(formattedEndDate);
+					}
+
+				},
+				error: function (error) {
+					debugger
+					alert('Lỗi trong quá trình thêm sự kiện');
+				}
+			});
+		}
+
+		function GetSchedule(id) {
+			var token = localStorage.getItem('jwt');
+			$.ajax({
+				url: 'http://localhost:5100/api/Event/Schedule/' + id,
+				type: 'get',
+				dataType: 'json',
+				contentType: 'application/json',
+				headers: {
+					'Authorization': 'Bearer ' + token
+				},
+
+				success: function (response) {
+					debugger
+					response.forEach(function (item) {
+					listscheduleCheck.push(item)
+
+					})
+				loadSchedule(listscheduleCheck)
+
+				},
+				error: function (error) {
+					debugger
+					alert('Lỗi trong quá trình thêm sự kiện');
+				}
+			});
+		}
+
+
+		// Gắn sự kiện xóa thẻ card
+		$(document).on('click', '.delete-icon', function () {
+			debugger
+			$(this).closest('.list-group-item').remove();
+		});
+
 </script>
